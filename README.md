@@ -53,6 +53,6 @@ Description: I developed a toxicity classification model using TensorFlow and LS
 
 ## Contact
 
-Feel free to reach out to me via email at saugialkaf1@student.ub.ac.id or connect with me on [LinkedIn]([insert_linkedin_profile_url](https://www.linkedin.com/in/syaugialkaf/)). I am open to collaboration, discussing exciting opportunities, and sharing insights related to Machine Learning, IoT & Data Science.
+Feel free to reach out to me via email at saugialkaf1@student.ub.ac.id or connect with me on [LinkedIn](https://www.linkedin.com/in/syaugialkaf/). I am open to collaboration, discussing exciting opportunities, and sharing insights related to Machine Learning, IoT & Data Science.
 
 Thank you for visiting my portfolio!
