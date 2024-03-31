@@ -2,17 +2,6 @@
 
 Welcome to my portfolio, showcasing my projects, skills, and accomplishments. This portfolio reflects my journey and expertise in various domains. Feel free to explore and learn more about me!
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
-
-## About Me
-
-Experienced tech enthusiast currently pursuing studies at Brawijaya University with a robust grasp of programming languages like Python, C, PHP, Java, HTML, and CSS, complemented by entry-level proficiency in Machine Learning, Data Engineering, and Data Science. Possessing an intermediate skill level in frameworks including Laravel, Bootstrap, Ruby on Rails, and Flask, I thrive in collaborative environments, actively contributing as a dedicated team player. My commitment to effective communication and unwavering work ethics cultivates a harmonious and productive work culture. As someone motivated and adaptable, I offer a strong programming foundation and a burgeoning interest in cutting-edge technologies such as Machine Learning and Data Science, making me an exciting prospect for those seeking a dynamic addition to their team.
-
 ## Projects
 
 ### Project 1: Chatbot Application
@@ -42,17 +31,3 @@ Description: I developed a toxicity classification model using TensorFlow and LS
 
 (More is coming)
 
-
-## Skills
-
-- Programming Languages: Python, C, PHP, Java, HTML, CSS
-- Data Analysis: [Mention data analysis tools or frameworks you are experienced with]
-- Machine Learning: Entry-level proficiency
-- Web Development: Intermediate in Laravel, Bootstrap, Ruby on Rails, Flask
-- Internet of Things: Expertise
-
-## Contact
-
-Feel free to reach out to me via email at saugialkaf1@student.ub.ac.id or connect with me on [LinkedIn](https://www.linkedin.com/in/syaugialkaf/). I am open to collaboration, discussing exciting opportunities, and sharing insights related to Machine Learning, IoT & Data Science.
-
-Thank you for visiting my portfolio!
